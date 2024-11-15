@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<!-- 기본값은 겟이므로 메서드 부분 포스트 지우면 겟으로 됨 -->
+<!-- 기본값은 get이므로 메서드 부분 포스트 지우면 기본값 get으로 됨 -->
 <h1>(・ω・)Post Servlet</h1> 
 <form method="post" action="postServlet">
 
