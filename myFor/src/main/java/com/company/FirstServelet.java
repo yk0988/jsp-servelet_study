@@ -1,5 +1,5 @@
 package com.company;
-//포워딩 연
+//포워딩 연습
 //리다이렉트 
 import java.io.IOException;
 import java.io.PrintWriter;
