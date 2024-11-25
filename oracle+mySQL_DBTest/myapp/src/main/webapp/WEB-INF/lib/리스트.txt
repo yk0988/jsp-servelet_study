@@ -1,9 +1,0 @@
-lombok.jar
-
-mysql-connector-j-8.0.31.jar
-
-
-ojdbc6.jar
-
-
-tomcat-dbcp-7.0.30.jar
